@@ -340,7 +340,7 @@ a {
 }
 
 #portrait {
-    background-image: url(../me.png);
+    background-image: url(../me.jpg);
     background-size: 104%;
     height: 250px;
     background-position-x: -6px;
@@ -600,10 +600,10 @@ section p {
 }
 
 .navbar li {
-		list-style-type: none;
-		display: inline-block;
-		margin-left: 10px;
-		margin-bottom: -11px;
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: -11px;
 }
 
 #about {
